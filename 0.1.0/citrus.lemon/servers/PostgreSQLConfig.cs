@@ -171,12 +171,4 @@ namespace citrus.lemon.servers
 		private ushort minPoolSize = 1;
 		private ushort maxPoolSize = 20;
 		private uint connectionLifetime = 15;
-	}
-}
-e bool ssl = false;
-		private bool pooling = false;
-		private ushort minPoolSize = 1;
-		private ushort maxPoolSize = 20;
-		private uint connectionLifetime = 15;
-	}
 }
