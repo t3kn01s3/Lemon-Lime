@@ -22,7 +22,6 @@
  * 
  * Author: MJ Arao
  * Date: 16/5/2013
- * Time: 5:20 PM
  * Version: 1.0.0
  * 
  */
