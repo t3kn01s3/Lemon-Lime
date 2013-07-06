@@ -28,9 +28,8 @@
 
 using System;
 using System.Text;
-using citrus.lemonlime;
 
-namespace citrus.lemon.servers
+namespace citrus.lemonlime.lemon
 {
 	public sealed class PostgreSQLConfig : DBServerConfig
 	{

@@ -33,8 +33,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="servers\MySQLConfig.cs" />
-    <Compile Include="servers\PostgreSQLConfig.cs" />
+    <Compile Include="MySQLConfig.cs" />
+    <Compile Include="PostgreSQLConfig.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -42,8 +42,5 @@
       <Project>{0600DC54-1C21-457F-845B-8FFA927CDBAF}</Project>
       <Name>citrus.lemonlime</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="servers\" />
   </ItemGroup>
 </Project>

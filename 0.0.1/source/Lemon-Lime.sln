@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "citrus.lemonlime", "citrus.lemonlime\citrus.lemonlime.csproj", "{0600DC54-1C21-457F-845B-8FFA927CDBAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "citrus.lemon", "citrus.lemon\citrus.lemon.csproj", "{E9109D76-AD1D-4608-8459-F284FEBCF79E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "citrus.lemonlime.lemon", "citrus.lemonlime.lemon\citrus.lemonlime.lemon.csproj", "{E9109D76-AD1D-4608-8459-F284FEBCF79E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
